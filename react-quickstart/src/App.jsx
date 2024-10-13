@@ -3,12 +3,16 @@ import AdminPanel from "./AdminPanel";
 import LoginForm from "./LoginForm";
 
 function App() {
-  let isLoggedIn = true;
+  let isLoggedIn = tfalse;
 
   return (
     <>
       <h1>Welcome to my app</h1>
-      {isLoggedIn && <AdminPanel />}
+      {isLoggedIn ? (
+        <AdminPanel />
+      ) : (
+        <LoginForm />
+      )}
     </>
   )
 }
