@@ -1,4 +1,8 @@
-import MyButton from './MyButton.jsx'
+function MyButton() {
+  return (
+    <button>I'm a button</button>
+  );
+}
 
 function App() {
   return (
