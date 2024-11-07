@@ -1,0 +1,27 @@
+1. As a Manager: How would you handle the situation when a key team member faces a personal issue that affects 
+the project timeline? What steps would you take to ensure the team stays on track, and how would you communicate 
+with both the client and your team?
+ANSWER: As a manager, the first step I will do is to quickly assess how critical the developer's tasks are and how
+	their absence will affect the project. It is essential to provide flexibility, such as time off or adjusting 
+	work hours. If necessary, I should also redistribute tasks to other team members or reassign work to the R&D
+	department. Transparent communication with the R&D department is necessary, keeping them updated on the new 
+	timeline without oversharing personal details. Lastly, to ensure that the workloads are manageable and the
+	project stays on track, I will communicate with my team on a frequent basis.
+
+
+2. As a Developer: If you were the one facing a family emergency, how would you handle the situation to ensure that 
+it doesn't negatively impact the project timeline? What actions would you take to manage your workload, communicate 
+effectively with your manager, and ensure the project stays on course?
+ANSWER: As a developer, early communication is key. Better planning may be done if the manager is informed of the 
+	problem as soon as possible. I should prioritize critical tasks and hand off remaining work with clear 
+	instructions. If available, I should stay reachable for urgent matters but set clear boundaries. I will regularly
+	update my availability to help manage expectations and minimize interruptions.
+
+
+3. What Could Have Been Done Better?: Reflect on how both the manager and the developer could have better anticipated 
+potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or 
+managed it more effectively?
+ANSWER: By making backup plans, both the manager and developer could have anticipated this situation. The manager could 
+	ensure team members are cross-trained and that project timelines allow for unanticipated delays. Developers should
+	communicate potential risks early and be clear about their availability during emergencies. Both parties would be 
+	better able to handle such situation more effectively with a more formal risk management plan.
