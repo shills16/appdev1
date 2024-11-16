@@ -7,7 +7,7 @@ import { StudentProvider, StudentProfile } from './StudentProfile';
 const App = () => (
   <StudentProvider>
     <div>
-      MISSING_CODE
+      <StudentProfile />
     </div>
   </StudentProvider>
 );

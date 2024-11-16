@@ -6,10 +6,10 @@ import Counter from './Counter.jsx'
 import ToggleButton from './ToggleButton.jsx'
 import TextInput from './TextInput.jsx'
 import FetchPosts from './FetchPosts.jsx'
-// import StudentProfile from './StudentProfile.jsx'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <FetchPosts />
+    <App />
   </StrictMode>,
 )
