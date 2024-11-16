@@ -1,15 +1,15 @@
 import { useState } from 'react';
 
-function Counter() {
+const Counter = () => {
     const [count, setCount] = useState(0);
 
     return (
         <div>
-            <p>You clicked {count} times</p>
+            <h1>Count: {count}</h1>
             <button onClick={() => setCount(count + 1)}>Increment</button>
             <button onClick={() => setCount(count - 1)}>Decrement</button>
         </div>
     );
-}
+};
 
-export default Counter
+export default Counter;
