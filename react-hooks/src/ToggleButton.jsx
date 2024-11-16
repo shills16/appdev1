@@ -5,8 +5,8 @@ const ToggleButton = () => {
 
     return (
         <div>
-            <h2>{ code ? 'the button is ON' : 'The button is OFF'}</h2>
-            <button onClick={() => missing(!isOn)}Toggle></button>
+            <h2>{ isOn ? 'The button is ON' : 'The button is OFF'}</h2>
+            <button onClick={() => setIsOn(!isOn)}>Toggle</button>
         </div>
     );
 }

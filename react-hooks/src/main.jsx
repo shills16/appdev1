@@ -9,6 +9,6 @@ import TextInput from './TextInput.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <TextInput />
+    <ToggleButton />
   </StrictMode>,
 )
